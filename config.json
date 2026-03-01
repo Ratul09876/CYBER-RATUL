@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "Raida"Bot
     "PREFIX": "/",
     "ADMINBOT": [
         "100000478146113",
@@ -34,7 +34,7 @@
     "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
-        "listenEvents": true,
+        "listenEvents" : tru"e,
         "pauseLog": true,
         "logLevel": "error",
         "selfListen": false,
@@ -64,6 +64,7 @@
         "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
     },
     "math": {
+      "
         "WOLFRAM": "T8J8YV-H265UQ762K"
     },
     "menu": {
@@ -128,7 +129,7 @@
         "APIKEY": "nhatdepzaivl"
     },
     "adminOnly": false,
-    "cavevip": {
+    "cavevipB": {
         "cooldownTime": 1200000
     },
     "lixi": {
