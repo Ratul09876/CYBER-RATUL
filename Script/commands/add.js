@@ -4,7 +4,7 @@ module.exports.config = {
  name: "add",
  version: "1.0.0",
  hasPermission: 0,
- credits: "Shaon",
+ credits: "Ꭱ4ͲUᏞ",
  description: "Send a random sad video",
  commandCategory: "media",
  usages: "",
