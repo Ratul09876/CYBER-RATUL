@@ -5,7 +5,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Islamick Chat",
   description: "prefix VEDIO",
-  commandCategory: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  commandCategory: "Ꭱ4ͲUᏞ ☢️_𖣘 BOSS ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   usages: "love10 vedio",
   cooldowns: 5,
   dependencies: {
